@@ -11,6 +11,9 @@ Assumtions:
 - write 'done' into "Input rover start coord and direction e.g. 0 0 N \n or enter 'done':"
   when you are happy with your current rovers set
 
+
+usage:
+python run_rovers.py
 '''
 
 from Rover import Rover
